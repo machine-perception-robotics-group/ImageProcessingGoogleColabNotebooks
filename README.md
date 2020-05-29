@@ -7,3 +7,6 @@ Jupyter notebooks (Google Colab) for Image Processing lectures
 
 [01.画像の濃淡ヒストグラム](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/01_image_intensity_histogram.ipynb)
 
+[02.空間フィルタリング](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/02_spatial_filtering.ipynb)
+
+[03.画像の幾何変換，イメージモザイク](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/03_geo_transform_image_mosaicking.ipynb)
