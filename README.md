@@ -17,3 +17,5 @@ Jupyter notebooks (Google Colab) for Image Processing lectures
 
 
 [06.テンプレートマッチング](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/06_template_matching.ipynb)
+
+[07.特徴点検出・記述](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/07_keypoint_detection_description.ipynb)
