@@ -14,3 +14,6 @@ Jupyter notebooks (Google Colab) for Image Processing lectures
 [04.ハフ変換，フーリエ変換](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/04_hough_fourier_transform.ipynb)
 
 [05.二値化，二値画像処理](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/05_binary_image_processing.ipynb)
+
+
+[06.テンプレートマッチング](https://colab.research.google.com/github/machine-perception-robotics-group/ImageProcessingGoogleColabNotebooks/blob/master/06_template_matching.ipynb)
